@@ -1,23 +1,28 @@
 <!-- docs/_sidebar.md -->
 
-- 2025年GESP真题
+- 图形化编程 1 级
 
-  - [3月认证真题](scratch-2025-03.md "CCF GESP 2025年3月认证 图形化编程 1级试题")
-  - [6月认证真题](guide.md "CCF GESP 2025年3月认证 图形化编程 1级试题")
+  - [2025年认证真题](scratch-2025-01.md "CCF GESP 2025年3月图形化编程认证")
+  - [2024年认证真题](guide.md "CCF GESP 2025年3月认证 图形化编程 1级试题")
+  - [2023年认证真题](guide.md "The greatest guide in the world")
 
-- 2024年GESP真题
+- 图形化编程 2 级
 
-  - [3月认证真题](guide.md "The greatest guide in the world")
-  - [6月认证真题](guide.md "The greatest guide in the world")
-  - [9月认证真题](guide.md "The greatest guide in the world")
-  - [12月认证真题](guide.md "The greatest guide in the world")
+  - [2025年认证真题](guide.md "The greatest guide in the world")
+  - [2024年认证真题](guide.md "The greatest guide in the world")
+  - [2023年认证真题](guide.md "The greatest guide in the world")
 
-- 2023年GESP真题
+- 图形化编程 3 级
 
-  - [03月认证真题](guide.md "The greatest guide in the world")
-  - [06月认证真题](guide.md "The greatest guide in the world")
-  - [09月认证真题](guide.md "The greatest guide in the world")
-  - [12月认证真题](guide.md "The greatest guide in the world")
+  - [2025年认证真题](guide.md "The greatest guide in the world")
+  - [2024年认证真题](guide.md "The greatest guide in the world")
+  - [2023年认证真题](guide.md "The greatest guide in the world")
+
+- 图形化编程 4 级
+
+  - [2025年认证真题](guide.md "The greatest guide in the world")
+  - [2024年认证真题](guide.md "The greatest guide in the world")
+  - [2023年认证真题](guide.md "The greatest guide in the world")
 
 - 样题
 
