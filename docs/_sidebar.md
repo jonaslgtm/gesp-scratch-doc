@@ -2,8 +2,8 @@
 
 - 图形化编程 1 级
 
-  - [2025年认证真题](scratch-2025-01.md "CCF GESP 2025年图形化编程认证")
-  - [2024年认证真题](guide.md "CCF GESP 2025年3月认证 图形化编程 1级试题")
+  - [2025年认证真题](scratch-2025-01.md "CCF GESP 2025年 图形化编程认证")
+  - [2024年认证真题](scratch-2024-01.md "CCF GESP 2024年 图形化编程认证")
   - [2023年认证真题](guide.md "The greatest guide in the world")
 
 - 图形化编程 2 级
