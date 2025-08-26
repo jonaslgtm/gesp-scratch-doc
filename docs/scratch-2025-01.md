@@ -6,7 +6,7 @@
 
 > CCF GESP 2025年3月认证 图形化编程 1级试题
 
-![题目1 - 闪亮登场](_images/scratch-2025.03-1-1.jpg)
+![题目1 - 闪亮登场](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-1.jpg)
 
 **准备工作：**
 
@@ -44,7 +44,7 @@
 
 > CCF GESP 2025年3月认证 图形化编程 1级试题
 
-![题目2 - 躲避陨石](_images/scratch-2025.03-1-2.jpg)
+![题目2 - 躲避陨石](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-2.jpg)
 
 **准备工作：**
 
@@ -80,7 +80,7 @@
 
 > CCF GESP 2025年6月认证 图形化编程 1级试题
 
-![题目3 - 心想事成](_images/scratch-2025.06-1-1.jpg)
+![题目3 - 心想事成](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-1.jpg)
 
 **准备工作：**
 
@@ -116,7 +116,7 @@
 
 > CCF GESP 2025年6月认证 图形化编程 1级试题
 
-![题目4 - 海底冒险](_images/scratch-2025.06-1-2.jpg)
+![题目4 - 海底冒险](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-2.jpg)
 
 **准备工作：**
 
