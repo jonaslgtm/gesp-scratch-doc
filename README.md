@@ -77,7 +77,7 @@ npx docsify-cli serve docs
 ## 🙏 鸣谢
 
 - [docsify](https://docsify.js.org/) - 一个神奇的文档网站生成器
-- [CCF GESP](http://www.noi.cn/gesp) - CCF 图形化编程能力认证
+- [CCF GESP](https://gesp.ccf.org.cn/) - CCF 图形化编程能力认证
 
 ## 👤 维护者
 
