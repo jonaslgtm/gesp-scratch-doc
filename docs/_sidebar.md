@@ -35,4 +35,6 @@
   - [4级-踢足球](guide.md "The greatest guide in the world")
   - [4级-海底寻宝](guide.md "The greatest guide in the world")
 
-- [changelog](changelog.md)
+- [Scratch 题型分类](scratch-sort.html)
+
+- [changelog](chagelog.md)
