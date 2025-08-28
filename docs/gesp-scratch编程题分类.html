@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>GESP编程题分类表</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 16px;
+            font-size: 14px;
+        }
+
+        /* 响应式容器 */
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch; /* 在iOS上提供平滑滚动 */
+            position: relative;
+            margin-bottom: 16px;
+            background: 
+                linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+                linear-gradient(to right, rgba(255,255,255,0), white 70%) 100% 0,
+                radial-gradient(farthest-side at 0% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)),
+                radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 100% 0;
+            background-repeat: no-repeat;
+            background-color: white;
+            background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+            background-attachment: local, local, scroll, scroll;
+        }
+
+        /* 表格样式 */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 1000px; /* 确保在小屏幕上内容不会挤压 */
+            background: white;
+            position: relative;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+            position: relative;
+            white-space: nowrap; /* 防止文字换行 */
+            background-color: white; /* 默认背景色 */
+        }
+
+        /* 固定第一列 */
+        td:first-child,
+        th:first-child {
+            position: sticky;
+            left: 0;
+            z-index: 3; /* 提高层级，确保在其他内容之上 */
+        }
+
+        /* 添加固定列的边框阴影 */
+        td:first-child::after,
+        th:first-child::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: -4px;
+            bottom: 0;
+            width: 4px;
+            pointer-events: none;
+            background: linear-gradient(to right, 
+                rgba(0, 0, 0, 0.1), 
+                rgba(0, 0, 0, 0)
+            );
+        }
+
+        /* 确保固定列背景色不透明 */
+        td:first-child {
+            background-color: white;
+        }
+        tbody tr:nth-child(odd) td {
+            background-color: #f9f9f9;
+        }
+        tbody tr:nth-child(odd) td:first-child {
+            background-color: #f9f9f9;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: 600;
+        }
+        th:first-child {
+            background-color: #f2f2f2;
+            z-index: 4; /* 表头的固定列要在最上层 */
+        }
+
+        /* 斑马条纹 */
+        tbody tr:nth-child(odd) {
+            background-color: #f9f9f9;
+        }
+
+        /* 鼠标悬停时只高亮非固定列的单元格边框 */
+        td:not(:first-child):hover {
+            position: relative;
+        }
+        td:not(:first-child):hover::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border: 2px solid #007bff;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        /* 响应式标题 */
+        h2 {
+            margin: 0 0 16px 0;
+            font-size: 1.5em;
+        }
+
+        /* 滚动提示 */
+        .scroll-hint {
+            display: none;
+            text-align: center;
+            color: #666;
+            margin-bottom: 8px;
+            font-size: 0.9em;
+        }
+
+        /* 移动端适配 */
+        @media (max-width: 768px) {
+            body {
+                padding: 8px;
+            }
+            
+            .scroll-hint {
+                display: block;
+            }
+
+            th, td {
+                padding: 6px;
+                font-size: 0.9em;
+            }
+
+            h2 {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+    </style>
+</head>
+
+<body>
+    <h2>GESP编程题样题与真题分类表</h2>
+    <div class="scroll-hint">
+        ← 左右滑动查看更多内容 →
+    </div>
+    <!-- 
+        表格结构说明:
+        - 每一行代表一个认证级别 (如: 样题1级, 23-1级).
+        - "所属" 列之后, 每两列为一组, 代表一次考试.
+        - 第一列是题目名称, 第二列是题目类型 ([A]或[B]).
+        - 要添加新题目时, 先找到对应的 "级别" (行) 和 "考试月份" (列), 然后填入信息.
+     -->
+    <div class="table-container">
+        <table>
+        <thead>
+            <tr>
+                <th rowspan="2">所属</th>
+                <th colspan="4">3月</th>
+                <th colspan="4">6月</th>
+                <th colspan="4">9月</th>
+                <th colspan="4">12月</th>
+            </tr>
+            <tr>
+                <th>题目1</th>
+                <th>类型</th>
+                <th>题目2</th>
+                <th>类型</th>
+                <th>题目1</th>
+                <th>类型</th>
+                <th>题目2</th>
+                <th>类型</th>
+                <th>题目1</th>
+                <th>类型</th>
+                <th>题目2</th>
+                <th>类型</th>
+                <th>题目1</th>
+                <th>类型</th>
+                <th>题目2</th>
+                <th>类型</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>样题1级</td>
+                <td><a href="https://github.com/jonaslgtm/CCF-GESP-ExamQuestions/tree/main/%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%BA%93%E3%80%90%E6%8C%89%E8%AE%A4%E8%AF%81%E7%AD%89%E7%BA%A7%E3%80%91/%E5%9B%BE%E5%BD%A2%E5%8C%96/1%E7%BA%A7">易显技</a></td>
+                <td>[A]</td>
+                <td>知识考宝</td>
+                <td>[A]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>样题2级</td>
+                <td>计算属性与图形</td>
+                <td>[B]</td>
+                <td>计算数据集</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>样题3级</td>
+                <td>气象原理</td>
+                <td>[B]</td>
+                <td>数字加密</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>样题4级</td>
+                <td>出征日期</td>
+                <td>[B]</td>
+                <td>计算天数</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>23-1级</td>
+                <td>同语</td>
+                <td>[A]</td>
+                <td>小函数笔记</td>
+                <td>[A]</td>
+                <td>去旅行</td>
+                <td>[A]</td>
+                <td>小猫寻宝</td>
+                <td>[A]</td>
+                <td>跳舞</td>
+                <td>[A]</td>
+                <td>小鸡练球</td>
+                <td>[A]</td>
+                <td>返回地球</td>
+                <td>[A]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>23-2级</td>
+                <td>快手时光</td>
+                <td>[A]</td>
+                <td>绘制图形</td>
+                <td>[A]</td>
+                <td>时间规划</td>
+                <td>[B]</td>
+                <td>统计个案</td>
+                <td>[B]</td>
+                <td>计算标准及高阶体重</td>
+                <td>[B]</td>
+                <td>幸运数</td>
+                <td>[B]</td>
+                <td>足球联赛积分</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>23-3级</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>自解数学</td>
+                <td>[B]</td>
+                <td>计算概率值</td>
+                <td>[B]</td>
+                <td>数字学习</td>
+                <td>[B]</td>
+                <td>计算平均得分</td>
+                <td>[B]</td>
+                <td>小除草组</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24-1级</td>
+                <td>玩具游戏</td>
+                <td>[A]</td>
+                <td>甲壳虫与香蕉</td>
+                <td>[A]</td>
+                <td>密码合成信息</td>
+                <td>[B]</td>
+                <td>搜索密码学</td>
+                <td>[B]</td>
+                <td>有多少小于当前元素的数字</td>
+                <td>[B]</td>
+                <td>小除草组</td>
+                <td>[B]</td>
+                <td>序列排序</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24-2级</td>
+                <td>小偷乐园</td>
+                <td>[B]</td>
+                <td>玩游戏</td>
+                <td>[B]</td>
+                <td>代码同步</td>
+                <td>[B]</td>
+                <td>密码同步</td>
+                <td>[A]</td>
+                <td>努力的模型</td>
+                <td>[A]</td>
+                <td>小偷乐园</td>
+                <td>[A]</td>
+                <td>大相回收</td>
+                <td>[A]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24-3级</td>
+                <td>魔法师</td>
+                <td>[B]</td>
+                <td>移动元素</td>
+                <td>[B]</td>
+                <td>小商品选择</td>
+                <td>[B]</td>
+                <td>小数点</td>
+                <td>[B]</td>
+                <td>小数点</td>
+                <td>[B]</td>
+                <td>计算算力</td>
+                <td>[B]</td>
+                <td>温度转换</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>24-4级</td>
+                <td>鼠标键盘</td>
+                <td>[B]</td>
+                <td>完全不方便</td>
+                <td>[B]</td>
+                <td>开关号</td>
+                <td>[B]</td>
+                <td>密码信息</td>
+                <td>[B]</td>
+                <td>小数点</td>
+                <td>[B]</td>
+                <td>小数点</td>
+                <td>[B]</td>
+                <td>小数点</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25-1级</td>
+                <td>闪亮梦想</td>
+                <td>[A]</td>
+                <td>视频预览</td>
+                <td>[A]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25-2级</td>
+                <td>图书馆里的老鼠</td>
+                <td>[B]</td>
+                <td>数字变换游戏</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>图书馆里的老鼠</td>
+                <td>[A]</td>
+            </tr>
+            <tr>
+                <td>25-3级</td>
+                <td>缺失的信号</td>
+                <td>[B]</td>
+                <td>时间训练</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>25-4级</td>
+                <td>小狗排序</td>
+                <td>[B]</td>
+                <td>同步统计</td>
+                <td>[B]</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const table = document.querySelector('table');
+            const cells = table.querySelectorAll('td, th');
+
+            const clearHighlights = () => {
+                const highlighted = table.querySelectorAll('.highlight-col, .highlight-row');
+                highlighted.forEach(el => el.classList.remove('highlight-col', 'highlight-row'));
+            };
+
+            table.addEventListener('mouseover', (e) => {
+                if (e.target.matches('td, th')) {
+                    clearHighlights();
+                    const cell = e.target;
+                    const rowIndex = cell.parentElement.rowIndex;
+                    const colIndex = cell.cellIndex;
+
+                    // Highlight row
+                    cell.parentElement.classList.add('highlight-row');
+
+                    // Highlight column
+                    const rows = table.rows;
+                    for (let i = 0; i < rows.length; i++) {
+                        if(rows[i].cells[colIndex]) {
+                           rows[i].cells[colIndex].classList.add('highlight-col');
+                        }
+                    }
+                }
+            });
+
+            table.addEventListener('mouseleave', () => {
+                clearHighlights();
+            });
+        });
+    </script>
+</body>
+
+</html>
