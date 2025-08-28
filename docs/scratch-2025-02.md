@@ -1,71 +1,263 @@
-# CCF GESP 2025年3月认证 图形化编程 1级试题
+# 2025 年 GESP 图形化编程 2 级认证真题
 
-## 题目1 - 闪亮登场
+> 更新至 2025 年 6 月...
 
-![题目1 - 闪亮登场](_images/scratch-2025.03-1-1.jpg)
+## 03-1 : 图书馆里的老鼠
 
-**准备工作：**
+> CCF GESP 2025年3月认证 图形化编程 2级试题
 
-（1）删除默认小猫角色。
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-1.jpg)
 
-（2）添加角色 Radio 并为其添加声音 Cymbal Echo。
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-2.jpg)
 
-（3）添加角色 Frank。
+【**题目描述**】
 
-（4）删除默认白色背景，添加背景 Neon Tunnel、Hearts。
+图书馆里面有 n 本书。不幸的是，图书馆里混进了一只老鼠。老鼠每 x 小时能啃坏一本书，假设老鼠在啃坏一本书之前不会啃另一本。
 
-**功能实现（根据注意事项，用积木块实现下列描述的功能）：**
+默认小猫角色和白色背景，编写程序计算经过 y 小时，图书馆还有多少本完好的书。
 
-（1）点击绿旗，舞台背景换成 Neon Tunnel。
+【**输入描述**】
 
-（2）点击绿旗，角色 Radio 的初始位置为（X=170，Y=-120），初始方向为 90°，初始造型为 Radio-b，初始大小为 100。
+新建变量 “n”，用于存储书的数量。
 
-（3）角色 Radio 完整地播放了两次音乐 Cymbal Echo，之后换成 Radio-a 造型。
+新建变量 “x”，用于存储老鼠啃坏一本书的时间。
 
-（4）点击绿旗，角色 Frank 的初始位置为（X=0，Y=20），初始方向为 90°，初始大小为 10，初始造型为 frank-a。
+新建变量 “y”，用于存储经过的小时数。
 
-（5）每隔 0.1 秒，角色 Frank 的大小增加 5，更换到下一个造型，重复执行 20 次。
+输入数据保证 y ≤ n × x。
 
-（6）之后，背景更换为 Hearts，角色 Frank 说“大家好！”，2 秒。
+如下图所示：
+
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-3.jpg)
+
+【**输出描述**】
+
+新建变量“result”用于存储最后的结果。
+
+如下图所示:
+
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-4.jpg)
+
+【**输入样例**】
+
+n = 10
+
+x = 2
+
+y = 3
+
+【**输出样例**】
+
+result = 8
+
+【**输入样例**】
+
+n = 5
+
+x = 2
+
+y = 4
+
+【**输出样例**】
+
+result = 3
 
 **注意事项：**
 
-- 功能（1）全部写在背景代码区的【当绿旗被点击】积木下面。
+1. **<font color="red"> 变量名的拼写（包括大小写）要和题目完全一致。</font>**
 
-- 功能（2）（3）全部写在角色 Radio 代码区的【当绿旗被点击】积木下面。
+2. **<font color="red"> 输入变量直接赋值即可，无需使用“询问并等待”积木块。</font>**
 
-- 功能（4）（5）（6）全部写在角色 Frank 代码区的【当绿旗被点击】积木下面。
+3. **<font color="red"> 输出结果存放在对应变量中即可，无需使用“说...”或“说...，2 秒”积木块。</font>**
 
-## 题目2 - 躲避陨石
+---
 
-![题目1 - 躲避陨石](_images/scratch-2025.03-1-2.jpg)
+## 03-2 : 数字变换游戏
 
-**准备工作：**
+> CCF GESP 2025年3月认证 图形化编程 2级试题
 
-（1）删除默认小猫角色。
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-1.jpg)
 
-（2）添加角色 Rocks 和 Rocketship。
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-2.jpg)
 
-（3）删除默认白色背景，添加背景 Moon。
+【**题目描述**】
 
-**功能实现（根据注意事项，用积木块实现下列描述的功能）：**
+默认小猫角色和白色背景，输入一个正整数 n（1≤n≤100），按照如下规则进行变换，算出第 k 次变换后的数是多少？
 
-（1）点击绿旗，背景换成 Moon。
+**规则：**从 n 开始，如果 n 是偶数，n 变换为 n 除以 2 的数，如果 n 是奇数，n 变换为 n 加上 3 的数。
 
-（2）点击绿旗，角色 Rocks 的初始位置为（X=-180 到 180 之间的随机数，Y=160），初始方向为 90°,初始大小为 70，初始状态为隐藏。
+【**输入描述**】
 
-（3）等待按下空格键，按下空格键后，Rocks 的状态变为显示。之后从舞台上方以每次 y 坐标减少 10 的速度下降。
+新建变量“n”用于存储一个正整数。
 
-（4）若 Rocks 碰到舞台边缘，则说“没击中”，2 秒，隐藏起来结束自身脚本；若 Rocks 碰到 Rocketship，则说“击中”2 秒，结束自身脚本。
+新建变量“k”用于存储变换的次数。
 
-（5）点击绿旗，角色 Rocketship 的初始位置（X=14，Y=-110），初始方向 90°，初始大小 70。
+如下图所示：
 
-（6）当按下向左键时，Rocketship 向左移动 10，当按下向右键时，Rocketship 向右移动 10（向左 x 坐标减少、向右 x 坐标增加）直到按下空格键为止。
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-3.jpg)
+
+【**输出描述**】
+
+输出变换后的数。
+
+如下图所示：
+
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-4.jpg)
+
+【**输入样例**】
+
+n = 3
+
+k = 5
+
+【**输出样例**】
+
+n = 6
+
+【输入样例】
+
+n = 10
+
+k = 4
+
+【**输出样例**】
+
+n = 2
 
 **注意事项：**
 
-- 功能（1）全部写在背景代码区的【当绿旗被点击】积木下面。
+1. **<font color="red">变量名的拼写（包括大小写）要和题目完全一致。</font>**
 
-- 功能（2）（3）（4）全部写在角色 Rocks 代码区的【当绿旗被点击】积木下面。
+2. **<font color="red">输入变量直接赋值即可，无需使用“询问并等待”积木块。</font>**
 
-- 功能（5）（6）写在角色 Rocketship 代码区的【当绿旗被点击】积木下面。
+3. **<font color="red">输出结果存放在对应变量中即可，无需使用“说...”或“说...，2 秒”积木块。</font>**
+
+---
+
+## 06-1 : 假期阅读
+
+> CCF GESP 2025年6月认证 图形化编程 2级试题
+
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-1.jpg)
+
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-2.jpg)
+
+【**题目描述**】
+
+小杨有一本厚厚的书。这本书总共有 n 页，小杨每天最多阅读 k 页。小杨的假期总共有 t 天，他想知道在假期中最多能阅读这本书的多少页。
+
+默认小猫角色和白色背景，编写程序实现上述功能。
+
+【**输入描述**】
+
+新建变量“n”，表示书的页数。
+
+新建变量“k”，表示小杨每天最多阅读的页数。
+
+新建变量“t”，表示小杨假期的天数。
+
+如下图所示：
+
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-3.jpg)
+
+【**输出描述**】
+
+新建变量“result”用于存储最后的结果。
+
+如下图所示：
+
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-4.jpg)
+
+【**输入样例**】
+
+n = 8
+
+k = 3
+
+t = 2
+
+【**输出样例**】
+
+result = 6
+
+【**输入样例**】
+
+n = 19
+
+k = 3
+
+t = 30
+
+【**输出样例**】
+
+result = 19
+
+**注意事项：**
+
+1. **<font color="red">变量名的拼写（包括大小写）要和题目完全一致。</font>**
+
+2. **<font color="red">输入变量直接赋值即可，无需使用“询问并等待”积木块。</font>**
+
+3. **<font color="red">输出结果存放在对应变量中即可，无需使用“说...”或“说...，2 秒”积木块。</font>**
+
+---
+
+## 06-2 : 值日
+
+> CCF GESP 2025年6月认证 图形化编程 2级试题
+
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-1.jpg)
+
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-2.jpg)
+
+【**题目描述**】
+
+小杨和小红是值日生，负责打扫教室。小杨每 m 天值日一次，小红每 n 天值日一次。今天他们同时值日，请问最少需要多少天后，他们会再次同一天值日？
+
+默认小猫角色和白色背景，编写程序实现上述功能。
+
+【**输入描述**】
+
+新建变量“m”，表示小杨的值日周期。
+
+新建变量“n”，表示小红的值日周期。
+
+如下图所示：
+
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-3.jpg)
+
+【输出描述】
+
+新建变量“result”用于存储最后的结果。
+
+如下图所示：
+
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-4.jpg)
+
+【输入样例】
+
+m = 4
+
+n = 6
+
+【输出样例】
+
+result = 12
+
+【输入样例】
+
+m = 5
+
+n = 7
+
+【输出样例】
+
+result = 35
+
+**注意事项：**
+
+1. **<font color="red">变量名的拼写（包括大小写）要和题目完全一致。</font>**
+
+2. **<font color="red">输入变量直接赋值即可，无需使用“询问并等待”积木块。</font>**
+
+3. **<font color="red">输出结果存放在对应变量中即可，无需使用“说...”或“说...，2 秒”积木块。</font>**
