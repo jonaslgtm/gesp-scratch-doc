@@ -6,7 +6,7 @@
 
 > CCF GESP 2025年3月认证 图形化编程 1级试题
 
-![题目1 - 闪亮登场](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-1.jpg)
+![03-1 : 闪亮登场](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-1.jpg)
 
 **准备工作：**
 
@@ -40,11 +40,13 @@
 
 - 功能（4）（5）（6）全部写在角色 Frank 代码区的【当绿旗被点击】积木下面。
 
+---
+
 ## 03-2 : 躲避陨石
 
 > CCF GESP 2025年3月认证 图形化编程 1级试题
 
-![题目2 - 躲避陨石](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-2.jpg)
+![03-2 : 躲避陨石](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.03-1-2.jpg)
 
 **准备工作：**
 
@@ -76,11 +78,13 @@
 
 - 功能（5）（6）写在角色 Rocketship 代码区的【当绿旗被点击】积木下面。
 
+---
+
 ## 06-1 : 心想事成
 
 > CCF GESP 2025年6月认证 图形化编程 1级试题
 
-![题目3 - 心想事成](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-1.jpg)
+![06-1 : 心想事成](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-1.jpg)
 
 **准备工作：**
 
@@ -112,11 +116,13 @@
 
 - 功能（5）（6）全部写在角色 Abby 代码区的【当绿旗被点击】积木下面。
 
+---
+
 ## 06-2 : 海底冒险
 
 > CCF GESP 2025年6月认证 图形化编程 1级试题
 
-![题目4 - 海底冒险](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-2.jpg)
+![06-2 : 海底冒险](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2025.06-1-2.jpg)
 
 **准备工作：**
 
