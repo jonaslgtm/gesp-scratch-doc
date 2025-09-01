@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+- [:books: Scratch 编程题类型表](scratch-sort.md "CCF GESP 图形化编程认证 - 编程题样题与真题分类")
+
 - 图形化编程 1 级
 
   - [2025年认证真题](scratch-2025-01.md "CCF GESP 2025年 图形化编程认证")
@@ -34,7 +36,5 @@
   - [3级-海底寻宝](guide.md "The greatest guide in the world")
   - [4级-踢足球](guide.md "The greatest guide in the world")
   - [4级-海底寻宝](guide.md "The greatest guide in the world")
-
-- [Scratch 题型分类](scratch-sort.html)
 
 - [changelog](chagelog.md)
