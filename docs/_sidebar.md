@@ -1,7 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-- [:books: Scratch 编程题类型表](scratch-sort.md "CCF GESP 图形化编程认证 - 编程题样题与真题分类")
-
 - 图形化编程 1 级
 
   - [2025年认证真题](scratch-2025-01.md "CCF GESP 2025年 图形化编程认证")
