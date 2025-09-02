@@ -1,4 +1,4 @@
-# CCF GESP Scratch 编程题库
+# CCF-GESP Scratch 图形化编程题库
 
 [![GitHub stars](https://img.shields.io/github/stars/jonaslgtm/gesp-scratch-doc?style=flat-square)](https://github.com/jonaslgtm/gesp-scratch-doc/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jonaslgtm/gesp-scratch-doc?style=flat-square)](https://github.com/jonaslgtm/gesp-scratch-doc/network)
@@ -6,11 +6,11 @@
 [![GitHub license](https://img.shields.io/github/license/jonaslgtm/gesp-scratch-doc?style=flat-square)](https://github.com/jonaslgtm/gesp-scratch-doc/blob/main/LICENSE)
 [![docsify](https://img.shields.io/badge/powered%20by-docsify-blue?style=flat-square)](https://docsify.js.org/)
 
-基于 [docsify](https://docsify.js.org/) 构建的 CCF GESP（图形化编程）题库，收录了历年 CCF GESP 认证真题与示例题解。本项目旨在帮助广大考生备考 CCF GESP 图形化编程认证。
+基于 [docsify](https://docsify.js.org/) 构建的 CCF-GESP（图形化编程）题库，收录了历年 CCF-GESP 认证真题与示例题解。本项目旨在帮助广大考生备考 CCF-GESP 图形化编程认证。
 
 ## ✨ 特性
 
-- 📚 收录 2023-2025 年 CCF GESP 图形化编程认证真题
+- 📚 收录 2023-2025 年 CCF-GESP 图形化编程认证样题与真题
 - 🎮 涵盖 1-4 级认证所有考试内容
 - 🎯 包含示例题目（踢足球、海底寻宝等）详细解析
 - 🚀 基于 docsify 的快速响应式文档
@@ -77,7 +77,7 @@ npx docsify-cli serve docs
 ## 🙏 鸣谢
 
 - [docsify](https://docsify.js.org/) - 一个神奇的文档网站生成器
-- [CCF GESP](https://gesp.ccf.org.cn/) - CCF 图形化编程能力认证
+- [CCF GESP](https://gesp.ccf.org.cn/) - CCF-GESP 编程能力等级认证
 
 ## 👤 维护者
 
@@ -91,4 +91,4 @@ npx docsify-cli serve docs
 
 ### 更新日志
 
-最后更新于：2025年8月26日
+最后更新于：2025年09月01日
