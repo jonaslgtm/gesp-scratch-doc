@@ -26,13 +26,9 @@
 
 - 样题
 
-  - [1级-踢足球](guide.md "The greatest guide in the world")
-  - [1级-海底寻宝](guide.md "The greatest guide in the world")
-  - [2级-踢足球](guide.md "The greatest guide in the world")
-  - [2级-海底寻宝](guide.md "The greatest guide in the world")
-  - [3级-踢足球](guide.md "The greatest guide in the world")
-  - [3级-海底寻宝](guide.md "The greatest guide in the world")
-  - [4级-踢足球](guide.md "The greatest guide in the world")
-  - [4级-海底寻宝](guide.md "The greatest guide in the world")
+  - [图形化样题1级](guide.md "The greatest guide in the world")
+  - [图形化样题2级](guide.md "The greatest guide in the world")
+  - [图形化样题3级](guide.md "The greatest guide in the world")
+  - [图形化样题3级](guide.md "The greatest guide in the world")
 
 - [changelog](chagelog.md)
