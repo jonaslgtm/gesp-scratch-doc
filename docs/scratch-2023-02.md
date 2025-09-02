@@ -292,7 +292,7 @@ result = 8
 
 如下图所示：
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-3.jpg)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-3.png)
 
 【**输出描述**】
 
@@ -302,7 +302,7 @@ result = 8
 
 如下图所示：
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-4.jpg)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-4.png)
 
 【**输入样例**】
 
@@ -338,9 +338,9 @@ weight = 32
 
 > CCF GESP 2023年9月认证 图形化编程 2级试题
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-1.jpg)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-1.png)
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-2.jpg)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-2.png)
 
 【**题目描述**】
 
@@ -360,7 +360,7 @@ weight = 32
 
 如下图所示：
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-3.jpg)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-3.png)
 
 【**输出描述**】
 
@@ -368,7 +368,7 @@ weight = 32
 
 如下图所示：
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-4.jpg)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-4.png)
 
 【**输入样例**】
 
