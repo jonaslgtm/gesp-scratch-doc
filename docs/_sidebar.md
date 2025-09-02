@@ -10,7 +10,7 @@
 
   - [2025年认证真题](scratch-2025-02.md "CCF GESP 2025年 图形化编程认证")
   - [2024年认证真题](scratch-2024-02.md "The greatest guide in the world")
-  - [2023年认证真题](guide.md "The greatest guide in the world")
+  - [2023年认证真题](scratch-2023-02.md "The greatest guide in the world")
 
 - 图形化编程 3 级
 
