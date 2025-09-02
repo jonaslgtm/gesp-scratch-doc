@@ -1,4 +1,4 @@
-# CCF-GESP Scratch 图形化编程题库
+# CCF-GESP 图形化编程 题库
 
 [![GitHub stars](https://img.shields.io/github/stars/jonaslgtm/gesp-scratch-doc?style=flat-square)](https://github.com/jonaslgtm/gesp-scratch-doc/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jonaslgtm/gesp-scratch-doc?style=flat-square)](https://github.com/jonaslgtm/gesp-scratch-doc/network)
