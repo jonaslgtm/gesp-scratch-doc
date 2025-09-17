@@ -6,9 +6,9 @@
 
 > CCF GESP 2025年3月认证 图形化编程 2级试题
 
-![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-1.jpg)
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-1-1.jpg)
 
-![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-2.jpg)
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-1-2.jpg)
 
 【**题目描述**】
 
@@ -28,7 +28,7 @@
 
 如下图所示：
 
-![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-3.jpg)
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-1-3.jpg)
 
 【**输出描述**】
 
@@ -36,7 +36,7 @@
 
 如下图所示:
 
-![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-1-4.jpg)
+![03-1 : 图书馆里的老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-1-4.jpg)
 
 【**输入样例**】
 
@@ -76,9 +76,9 @@ result = 3
 
 > CCF GESP 2025年3月认证 图形化编程 2级试题
 
-![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-1.jpg)
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-2-1.jpg)
 
-![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-2.jpg)
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-2-2.jpg)
 
 【**题目描述**】
 
@@ -94,7 +94,7 @@ result = 3
 
 如下图所示：
 
-![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-3.jpg)
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-2-3.jpg)
 
 【**输出描述**】
 
@@ -102,7 +102,7 @@ result = 3
 
 如下图所示：
 
-![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.03-2-4.jpg)
+![03-2 : 数字变换游戏](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.03-2-4.jpg)
 
 【**输入样例**】
 
@@ -138,9 +138,9 @@ n = 2
 
 > CCF GESP 2025年6月认证 图形化编程 2级试题
 
-![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-1.jpg)
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-1-1.jpg)
 
-![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-2.jpg)
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-1-2.jpg)
 
 【**题目描述**】
 
@@ -158,7 +158,7 @@ n = 2
 
 如下图所示：
 
-![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-3.jpg)
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-1-3.jpg)
 
 【**输出描述**】
 
@@ -166,7 +166,7 @@ n = 2
 
 如下图所示：
 
-![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-1-4.jpg)
+![06-1 : 假期阅读](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-1-4.jpg)
 
 【**输入样例**】
 
@@ -206,9 +206,9 @@ result = 19
 
 > CCF GESP 2025年6月认证 图形化编程 2级试题
 
-![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-1.jpg)
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-2-1.jpg)
 
-![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-2.jpg)
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-2-2.jpg)
 
 【**题目描述**】
 
@@ -224,7 +224,7 @@ result = 19
 
 如下图所示：
 
-![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-3.jpg)
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-2-3.jpg)
 
 【输出描述】
 
@@ -232,7 +232,7 @@ result = 19
 
 如下图所示：
 
-![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2025.06-2-4.jpg)
+![06-2 : 值日](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2025.06-2-4.jpg)
 
 【输入样例】
 

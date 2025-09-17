@@ -6,7 +6,7 @@
 
 > CCF GESP 2023年3月认证 图形化编程 2级试题
 
-![03-1 : 快乐的时光](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.03-1-1.jpg)
+![03-1 : 快乐的时光](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.03-1-1.jpg)
 
 **准备工作：**
 
@@ -38,7 +38,7 @@
 
 > CCF GESP 2023年3月认证 图形化编程 2级试题
 
-![03-2 : 绘制图形](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.03-2-1.jpg)
+![03-2 : 绘制图形](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.03-2-1.jpg)
 
 **准备工作：**
 
@@ -66,9 +66,9 @@
 
 > CCF GESP 2023年6月认证 图形化编程 2级试题
 
-![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.06-1-1.jpg)
+![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.06-1-1.jpg)
 
-![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.06-1-2.jpg)
+![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.06-1-2.jpg)
 
 【**题目描述**】
 
@@ -92,7 +92,7 @@ h2 = 09，m2 = 06，表示终止时刻为09时06分。
 
 如下图所示：
 
-![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.06-1-3.jpg)
+![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.06-1-3.jpg)
 
 【**输出描述**】
 
@@ -102,7 +102,7 @@ h2 = 09，m2 = 06，表示终止时刻为09时06分。
 
 如下图所示：
 
-![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.06-1-4.jpg)
+![06-1 : 时间规划](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.06-1-4.jpg)
 
 【**输入样例**】
 
@@ -172,9 +172,9 @@ result = 26
 
 > CCF GESP 2023年6月认证 图形化编程 2级试题
 
-![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-1.jpg)
+![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-1.jpg)
 
-![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-2.jpg)
+![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-2.jpg)
 
 【**题目描述**】
 
@@ -192,7 +192,7 @@ result = 26
 
 如下图所示：
 
-![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-3.jpg)
+![06-2 : 统计个数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-3.jpg)
 
 【**输出描述**】
 
@@ -200,7 +200,7 @@ result = 26
 
 如下图所示：
 
-![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-2-4.jpg)
+![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-2-4.jpg)
 
 【**输入样例**】
 
@@ -270,9 +270,9 @@ result = 8
 
 > CCF GESP 2023年9月认证 图形化编程 2级试题
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-1.jpg)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-1-1.jpg)
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-2.jpg)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-1-2.jpg)
 
 【**题目描述**】
 
@@ -292,7 +292,7 @@ result = 8
 
 如下图所示：
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-3.png)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-1-3.png)
 
 【**输出描述**】
 
@@ -302,7 +302,7 @@ result = 8
 
 如下图所示：
 
-![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-1-4.png)
+![09-1 : 计算标准身高和体重](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-1-4.png)
 
 【**输入样例**】
 
@@ -338,9 +338,9 @@ weight = 32
 
 > CCF GESP 2023年9月认证 图形化编程 2级试题
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-1.png)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-2-1.png)
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-2.png)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-2-2.png)
 
 【**题目描述**】
 
@@ -360,7 +360,7 @@ weight = 32
 
 如下图所示：
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-3.png)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-2-3.png)
 
 【**输出描述**】
 
@@ -368,7 +368,7 @@ weight = 32
 
 如下图所示：
 
-![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.09-2-4.png)
+![09-2 : 幸运数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.09-2-4.png)
 
 【**输入样例**】
 
@@ -408,9 +408,9 @@ result = 7
 
 > CCF GESP 2023年9月认证 图形化编程 2级试题
 
-![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-1-1.jpg)
+![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-1-1.jpg)
 
-![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-1-2.jpg)
+![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-1-2.jpg)
 
 【**题目描述**】
 
@@ -426,7 +426,7 @@ result = 7
 
 如下图所示：
 
-![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-1-3.jpg)
+![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-1-3.jpg)
 
 【**输出描述**】
 
@@ -434,7 +434,7 @@ result = 7
 
 如下图所示：
 
-![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-1-4.jpg)
+![12-1 : 足球联赛积分](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-1-4.jpg)
 
 【**输入样例**】
 
@@ -474,9 +474,9 @@ result = 35
 
 > CCF GESP 2023年9月认证 图形化编程 2级试题
 
-![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-2-1.jpg)
+![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-2-1.jpg)
 
-![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-2-2.jpg)
+![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-2-2.jpg)
 
 【**题目描述**】
 
@@ -492,7 +492,7 @@ result = 35
 
 如下图所示：
 
-![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-2-3.jpg)
+![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-2-3.jpg)
 
 【**输出描述**】
 
@@ -500,7 +500,7 @@ result = 35
 
 如下图所示：
 
-![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2023.12-2-4.jpg)
+![12-2 : 小杨报数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2023.12-2-4.jpg)
 
 【**输入样例**】
 

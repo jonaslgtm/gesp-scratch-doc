@@ -6,9 +6,9 @@
 
 > CCF GESP 2024年3月认证 图形化编程 2级试题
 
-![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-1-1.jpg)
+![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-1-1.jpg)
 
-![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-1-2.jpg)
+![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-1-2.jpg)
 
 【**题目描述**】
 
@@ -22,7 +22,7 @@
 
 如下图所示：
 
-![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-1-3.jpg)
+![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-1-3.jpg)
 
 【**输出描述**】
 
@@ -30,7 +30,7 @@
 
 如下图所示：
 
-![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-1-4.jpg)
+![03-1 : 小杨买书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-1-4.jpg)
 
 【**输入样例**】
 
@@ -66,9 +66,9 @@ r = 4
 
 > CCF GESP 2024年3月认证 图形化编程 2级试题
 
-![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-2-1.jpg)
+![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-2-1.jpg)
 
-![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-2-2.jpg)
+![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-2-2.jpg)
 
 【**题目描述**】
 
@@ -84,7 +84,7 @@ r = 4
 
 如下图所示：
 
-![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-2-3.jpg)
+![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-2-3.jpg)
 
 【**输出描述**】
 
@@ -92,7 +92,7 @@ r = 4
 
 如下图所示：
 
-![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.03-2-4.jpg)
+![03-2 : 找因数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.03-2-4.jpg)
 
 【**输入样例**】
 
@@ -124,9 +124,9 @@ result = 1
 
 > CCF GESP 2024年6月认证 图形化编程 2级试题
 
-![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-1-1.jpg)
+![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-1-1.jpg)
 
-![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-1-2.jpg)
+![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-1-2.jpg)
 
 【**题目描述**】
 
@@ -148,7 +148,7 @@ result = 1
 
 如下图所示:
 
-![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-1-3.jpg)
+![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-1-3.jpg)
 
 【**输出描述**】
 
@@ -160,7 +160,7 @@ result = 1
 
 如下图所示：
 
-![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-1-4.jpg)
+![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-1-4.jpg)
 
 【**输入样例**】
 
@@ -198,9 +198,9 @@ s1 = 9
 
 > CCF GESP 2024年6月认证 图形化编程 2级试题
 
-![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-1.jpg)
+![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-1.jpg)
 
-![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-2.jpg)
+![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-2.jpg)
 
 【**题目描述**】
 
@@ -216,7 +216,7 @@ result = 1<sup>3</sup> + 2<sup>3</sup> + … + k<sup>3</sup>。
 
 如下图所示：
 
-![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-3.jpg)
+![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-3.jpg)
 
 【**输出描述**】
 
@@ -224,7 +224,7 @@ result = 1<sup>3</sup> + 2<sup>3</sup> + … + k<sup>3</sup>。
 
 如下图所示：
 
-![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.06-2-4.jpg)
+![06-2 : 整数的立方和](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.06-2-4.jpg)
 
 【**输入样例**】
 
@@ -256,9 +256,9 @@ result = 225
 
 > CCF GESP 2024年9月认证 图形化编程 2级试题
 
-![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-1-1.jpg)
+![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-1-1.jpg)
 
-![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-1-2.jpg)
+![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-1-2.jpg)
 
 【**题目描述**】
 
@@ -280,7 +280,7 @@ result = 225
 
 如下图所示：
 
-![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-1-3.jpg)
+![09-1 : 小杨购物](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-1-3.jpg)
 
 【**输出描述**】
 
@@ -288,7 +288,7 @@ result = 225
 
 如下图所示：
 
-![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-1-4.jpg)
+![06-1 : 休息时间](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-1-4.jpg)
 
 【**输入样例**】
 
@@ -328,9 +328,9 @@ result = 4
 
 > CCF GESP 2024年9月认证 图形化编程 2级试题
 
-![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-2-1.jpg)
+![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-2-1.jpg)
 
-![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-2-2.jpg)
+![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-2-2.jpg)
 
 【**题目描述**】
 
@@ -348,7 +348,7 @@ a<sup>n</sup> 就是 n 个 a 相乘，例如：2<sup>3</sup> = 2×2×2=8
 
 如下图所示：
 
-![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-2-3.jpg)
+![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-2-3.jpg)
 
 【**输出描述**】
 
@@ -356,7 +356,7 @@ a<sup>n</sup> 就是 n 个 a 相乘，例如：2<sup>3</sup> = 2×2×2=8
 
 如下图所示：
 
-![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.09-2-4.jpg)
+![09-2 : 计算乘方](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.09-2-4.jpg)
 
 【**输入样例**】
 
@@ -388,9 +388,9 @@ result = 81
 
 > CCF GESP 2024年12月认证 图形化编程 2级试题
 
-![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-1-1.jpg)
+![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-1-1.jpg)
 
-![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-1-2.jpg)
+![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-1-2.jpg)
 
 【**题目描述**】
 
@@ -408,7 +408,7 @@ F = C × 1.8 + 32
 
 如下图所示：
 
-![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-1-3.jpg)
+![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-1-3.jpg)
 
 【**输出描述**】
 
@@ -416,7 +416,7 @@ F = C × 1.8 + 32
 
 如下图所示：
 
-![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-1-4.jpg)
+![12-1 : 温度转换](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-1-4.jpg)
 
 【**输入样例**】
 
@@ -448,9 +448,9 @@ result = 107.3
 
 > CCF GESP 2024年12月认证 图形化编程 2级试题
 
-![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-2-1.jpg)
+![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-2-1.jpg)
 
-![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-2-2.jpg)
+![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-2-2.jpg)
 
 【**题目描述**】
 
@@ -464,7 +464,7 @@ result = 107.3
 
 如下图所示：
 
-![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-2-3.jpg)
+![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-2-3.jpg)
 
 【**输出描述**】
 
@@ -472,7 +472,7 @@ result = 107.3
 
 如下图所示：
 
-![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/2/scratch-2024.12-2-4.jpg)
+![12-2 : 小杨读书](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/02/scratch-2024.12-2-4.jpg)
 
 【**输入样例**】
 
