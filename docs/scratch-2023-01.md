@@ -6,9 +6,9 @@
 
 > CCF GESP 2023年3月认证 图形化编程 1级试题
 
-![03-1 - 问路](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.03-1-1.jpg)
+![03-1 - 问路](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.03-1-1.jpg)
 
-![03-1 - 问路](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.03-1-11.jpg)
+![03-1 - 问路](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.03-1-11.jpg)
 
 **准备工作：**
 
@@ -40,7 +40,7 @@
 
 > CCF GESP 2023年3月认证 图形化编程 1级试题
 
-![03-1 - 小猫捉老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.03-1-2.jpg)
+![03-1 - 小猫捉老鼠](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.03-1-2.jpg)
 
 **准备工作：**
 
@@ -68,7 +68,7 @@
 
 > CCF GESP 2023年6月认证 图形化编程 1级试题
 
-![06-1 - 去旅行](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.06-1-1.jpg)
+![06-1 - 去旅行](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.06-1-1.jpg)
 
 **准备工作：**
 
@@ -100,7 +100,7 @@
 
 > CCF GESP 2023年6月认证 图形化编程 1级试题
 
-![06-2 - 小猫寻宝](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.06-1-2.jpg)
+![06-2 - 小猫寻宝](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.06-1-2.jpg)
 
 **准备工作：**
 
@@ -124,7 +124,7 @@
 
 > CCF GESP 2023年9月认证 图形化编程 1级试题
 
-![09-1 - 跳舞](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.09-1-1.png)
+![09-1 - 跳舞](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.09-1-1.png)
 
 **准备工作：**
 
@@ -156,7 +156,7 @@
 
 > CCF GESP 2023年9月认证 图形化编程 1级试题
 
-![09-2 - 小鸡躲球](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.09-1-2.png)
+![09-2 - 小鸡躲球](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.09-1-2.png)
 
 **准备工作：**
 
@@ -192,7 +192,7 @@
 
 > CCF GESP 2023年12月认证 图形化编程 1级试题
 
-![12-1 - 返回地球](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.12-1-1.jpg)
+![12-1 - 返回地球](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.12-1-1.jpg)
 
 **准备工作：**
 
@@ -228,7 +228,7 @@
 
 > CCF GESP 2023年12月认证 图形化编程 1级试题
 
-![12-2 - 天使](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2023.12-1-2.jpg)
+![12-2 - 天使](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2023.12-1-2.jpg)
 
 **准备工作：**
 

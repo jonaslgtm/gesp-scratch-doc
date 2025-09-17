@@ -6,7 +6,7 @@
 
 > CCF GESP 2024年3月认证 图形化编程 1级试题
 
-![03-1 - 我是魔法师](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.03-1-1.jpg)
+![03-1 - 我是魔法师](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.03-1-1.jpg)
 
 **准备工作：**
 
@@ -42,7 +42,7 @@
 
 > CCF GESP 2024年3月认证 图形化编程 1级试题
 
-![03-2 - 甲壳虫与香蕉](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.03-1-2.jpg)
+![03-2 - 甲壳虫与香蕉](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.03-1-2.jpg)
 
 **准备工作：**
 
@@ -80,7 +80,7 @@
 
 > CCF GESP 2024年6月认证 图形化编程 1级试题
 
-![06-1 - 气球飞了](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.06-1-1.jpg)
+![06-1 - 气球飞了](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.06-1-1.jpg)
 
 **准备工作：**
 
@@ -116,7 +116,7 @@
 
 > CCF GESP 2024年6月认证 图形化编程 1级试题
 
-![06-2 - 踢足球](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.06-1-2.jpg)
+![06-2 - 踢足球](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.06-1-2.jpg)
 
 **准备工作：**
 
@@ -156,7 +156,7 @@
 
 > CCF GESP 2024年9月认证 图形化编程 1级试题
 
-![09-1 - 努力的蜻蜓](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.09-1-1.jpg)
+![09-1 - 努力的蜻蜓](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.09-1-1.jpg)
 
 **准备工作：**
 
@@ -194,7 +194,7 @@
 
 > CCF GESP 2024年9月认证 图形化编程 1级试题
 
-![09-2 - 小熊演杂技](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.09-1-2.jpg)
+![09-2 - 小熊演杂技](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.09-1-2.jpg)
 
 **准备工作：**
 
@@ -234,7 +234,7 @@
 
 > CCF GESP 2024年12月认证 图形化编程 1级试题
 
-![12-1 - 火箭回收](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.12-1-1.jpg)
+![12-1 - 火箭回收](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.12-1-1.jpg)
 
 **准备工作：**
 
@@ -272,7 +272,7 @@
 
 > CCF GESP 2024年12月认证 图形化编程 1级试题
 
-![12-2 - 飞行的小猫](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-2024.12-1-2.jpg)
+![12-2 - 飞行的小猫](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/01/scratch-2024.12-1-2.jpg)
 
 **准备工作：**
 
