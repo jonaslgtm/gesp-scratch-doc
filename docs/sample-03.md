@@ -20,7 +20,7 @@
 
 如下图所示：
 
-![样题01 : 鸡兔同笼](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-3-01.jpg)
+![样题01 : 鸡兔同笼](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-3-01.jpg)
 
 【**输出描述**】
 
@@ -28,7 +28,7 @@
 
 如下图所示：
 
-![样题01 : 鸡兔同笼](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-3-02.jpg)
+![样题01 : 鸡兔同笼](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-3-02.jpg)
 
 【**输入样例**】
 
@@ -82,7 +82,7 @@ rabbit = 15
 
 如下图所示：
 
-![样题02 : 数字加密](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-3-03.jpg)
+![样题02 : 数字加密](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-3-03.jpg)
 
 【**输出描述**】
 
@@ -90,7 +90,7 @@ rabbit = 15
 
 如下图所示：
 
-![样题02 : 数字加密](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-3-04.jpg)
+![样题02 : 数字加密](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-3-04.jpg)
 
 【**输入样例**】
 

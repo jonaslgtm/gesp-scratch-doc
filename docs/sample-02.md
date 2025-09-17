@@ -20,9 +20,9 @@
 
 如下图所示：
 
-![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-2-01.jpg)
+![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-2-01.jpg)
 
-![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-2-02.jpg)
+![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-2-02.jpg)
 
 【**输出描述**】
 
@@ -30,9 +30,9 @@
 
 如下图所示：
 
-![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-2-03.jpg)
+![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-2-03.jpg)
 
-![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-2-04.jpg)
+![样题01 : 计算周长和面积](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-2-04.jpg)
 
 【**输入样例**】
 

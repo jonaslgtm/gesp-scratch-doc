@@ -20,7 +20,7 @@
 
 如下图所示：
 
-![样题01 : 出生日期](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-4-01.jpg)
+![样题01 : 出生日期](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-4-01.jpg)
 
 【**输出描述**】
 
@@ -28,7 +28,7 @@
 
 如下图所示：
 
-![样题01 : 出生日期](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-4-02.jpg)
+![样题01 : 出生日期](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-4-02.jpg)
 
 【**输入样例**】
 
@@ -68,7 +68,7 @@
 
 如下图所示：
 
-![样题02 : 计算天数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-4-03.jpg)
+![样题02 : 计算天数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-4-03.jpg)
 
 【**输出描述**】
 
@@ -76,7 +76,7 @@
 
 如下图所示：
 
-![样题02 : 计算天数](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-4-04.jpg)
+![样题02 : 计算天数](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-4-04.jpg)
 
 【**输入样例**】
 

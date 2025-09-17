@@ -6,7 +6,7 @@
 
 > GESP 图形化编程 1 级认证样题
 
-![样题01 : 踢足球](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-1-01.jpg)
+![样题01 : 踢足球](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-1-01.jpg)
 
 **准备工作：**
 
@@ -36,7 +36,7 @@
 
 > GESP 图形化编程 1 级认证样题
 
-![样题02 : 海底寻宝](https://cdn.jsdelivr.net/gh/jonaslgtm/Cloud-Image-Hosting/ccf-gesp/scratch/scratch-sample-1-02.jpg)
+![样题02 : 海底寻宝](https://cdn.jsdelivr.net/gh/jonaslgtm/gesp-scratch-doc/docs/_img/scratch-sample-1-02.jpg)
 
 **准备工作：**
 
